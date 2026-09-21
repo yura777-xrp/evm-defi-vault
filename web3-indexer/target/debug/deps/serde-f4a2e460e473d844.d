@@ -1,0 +1,14 @@
+/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/deps/serde-f4a2e460e473d844.d: /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/build/serde-5c73252a107c8168/out/private.rs
+
+/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/deps/libserde-f4a2e460e473d844.rlib: /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/build/serde-5c73252a107c8168/out/private.rs
+
+/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/deps/libserde-f4a2e460e473d844.rmeta: /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/build/serde-5c73252a107c8168/out/private.rs
+
+/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/build/serde-5c73252a107c8168/out/private.rs:
+
+# env-dep:OUT_DIR=/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/build/serde-5c73252a107c8168/out
