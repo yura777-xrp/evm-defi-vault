@@ -1,8 +1,0 @@
-/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/deps/itoa-e1cf0ba11d02098b.d: /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs
-
-/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/deps/libitoa-e1cf0ba11d02098b.rlib: /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs
-
-/home/yura_eagle/solana-projects/evm-defi-vault/web3-indexer/target/debug/deps/libitoa-e1cf0ba11d02098b.rmeta: /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs /home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs
-
-/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/lib.rs:
-/home/yura_eagle/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/itoa-1.0.18/src/u128_ext.rs:
